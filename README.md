@@ -1,8 +1,8 @@
 # data-science
 
-# Project Title
+# iTunes App Review 
 
-One Paragraph of project description goes here
+Sentiment analysis and topic modeling of iTunes user app reviews to identify pain points of user experience.
 
 ## Getting Started
 
@@ -10,11 +10,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
+- Anaconda 
+- Python 3.7
+- Flask 
 
 ### Installing
 
@@ -38,21 +36,6 @@ End with an example of getting some data out of the system or using it for a lit
 
 Explain how to run the automated tests for this system
 
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
 
 ## Deployment
 
@@ -74,17 +57,9 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+* **Alise Ramirez** - *Initial work* - (https://github.com/aliseramirez)
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* Inspired by a consulting project requesting user experience pain points 
 

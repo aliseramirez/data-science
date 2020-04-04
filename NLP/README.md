@@ -1,51 +1,31 @@
-# data-science
+# App User Review
 
-# Title
-
-Sentiment analysis and topic modeling of iTunes user app reviews to identify pain points of user experience.
+Analyze the topics and sentiment of user reviews for Pinterest to determine suitable ideas for A/B testing and defining novel metrics.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
 
 - Anaconda 
 - Python 3.7
-- Flask 
+- Streamlit
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
+- Download and install Anaconda 
 
-Say what the step will be
+- Download .txt file containing all libraries
 
-```
-Give the example
-```
+- Create a new virtual environment and pass in .txt file for install all listed packages
 
-And repeat
+- Run file
 
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Streamlit](https://www.streamlit.io/)
 
 ## Contributing
 
@@ -59,7 +39,4 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 * **Alise Ramirez** - *Initial work* - (https://github.com/aliseramirez)
 
-## Acknowledgments
-
-* Inspired by a consulting project requesting user experience pain points 
 
